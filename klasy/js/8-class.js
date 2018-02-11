@@ -16,7 +16,7 @@ ogloszenie1.wyswietlOgloszenie();
 
 
 var ogloszenie2 = new Ogloszenie( "Sprzedam Audi", "Licznik nie cofany", "665245875", 20000 );
-ogloszenie2.wyswietlOgloszenie();
+ogloszenie2.wyswietlOgloszenie();    //szablon metody 
 
 console.log( typeof ogloszenie1 );
 
